@@ -1,6 +1,6 @@
 {
   "name": "weak-rbac",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is the simplest RBAC based on express routes definition.",
   "main": "index.js",
   "types": "index.d.ts",

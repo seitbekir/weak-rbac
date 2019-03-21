@@ -88,7 +88,7 @@ async function initRBAC(options = {}) {
         initRoles(options.roles);
     }
 
-    return initSession();
+    return initSession;
 }
 
 /**
